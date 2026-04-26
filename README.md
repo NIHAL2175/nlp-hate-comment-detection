@@ -20,7 +20,6 @@ It helps in identifying harmful content in online platforms.
 - ✔ NLP preprocessing pipeline  
 - ✔ Machine Learning classification  
 - ✔ Clean and simple implementation
-- 
 ---
 
 ## 🧠 How It Works
