@@ -15,13 +15,12 @@ It helps in identifying harmful content in online platforms.
 
 ---
 
-## ✨ Features
-
-✔ Detects hate comments from text
-✔ NLP preprocessing pipeline
-✔ Machine Learning classification
-✔ Clean and simple implementation
-
+## ✨ Features  
+- ✔ Detects hate comments from text  
+- ✔ NLP preprocessing pipeline  
+- ✔ Machine Learning classification  
+- ✔ Clean and simple implementation
+- 
 ---
 
 ## 🧠 How It Works
@@ -65,12 +64,6 @@ It helps in identifying harmful content in online platforms.
 
 ---
 
-## ⚠️ Important Note
-
-Large files like datasets and trained models are excluded using `.gitignore`.
-
----
-
 ## 🚀 Getting Started
 
 ```bash
@@ -85,11 +78,4 @@ Open `Untitled.ipynb` and run all cells.
 
 ---
 
-## 📊 Future Improvements
-
-* 🔥 Improve accuracy
-* 🌐 Build web app
-* 🤖 Use deep learning models
-
----
 
